@@ -29,6 +29,8 @@ $visual-style
 
 Skill 入口为 `SKILL.md`，详细规则位于 `references/`，机器可读主题位于 `assets/theme-tokens.json`。
 
+如果平台不支持从仓库目录直接安装，可下载仓库中的 `visual-style-skill.zip`，解压后安装其中的 `visual-style` 文件夹。
+
 ## 常用指令
 
 ```text
@@ -45,6 +47,6 @@ Skill 入口为 `SKILL.md`，详细规则位于 `references/`，机器可读主�
 - `SKILL.md`：支持 Agent Skills 的 AI 使用的入口。
 - `references/`：颜色、图型、数据适配和工具实现细则。
 - `assets/theme-tokens.json`：颜色、字体、字号、线宽和透明度等机器可读变量。
+- `visual-style-skill.zip`：包含完整目录结构的便携Skill安装包。
 
-本仓库暂不预设开源许可证。公开发布前可根据需要选择许可证。
-
+本项目采用 MIT License，可自由使用、复制和修改，并保留许可证及版权声明。
