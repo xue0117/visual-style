@@ -1,0 +1,56 @@
+{
+  "name": "Visual Style Blue Blue Gold Orange Red",
+  "colors": {
+    "primary": "#5271AE",
+    "secondary": "#70ACDE",
+    "accent": "#F5CC7D",
+    "accentText": "#B47A1F",
+    "attention": "#FFA660",
+    "text": "#273142",
+    "textSecondary": "#667085",
+    "textMuted": "#98A2B3",
+    "axis": "#CBD5E1",
+    "grid": "#E7ECF2",
+    "canvas": "#FFFFFF",
+    "surface": "#F7F9FC",
+    "success": "#5A9F8B",
+    "danger": "#D85B59"
+  },
+  "categorical": [
+    "#5271AE",
+    "#70ACDE",
+    "#F5CC7D",
+    "#FFA660",
+    "#D85B59",
+    "#5A9F8B",
+    "#A985C2",
+    "#7F8FA6"
+  ],
+  "sequential": ["#EEF5FB", "#BBD8EF", "#70ACDE", "#5271AE", "#334E85"],
+  "diverging": ["#5271AE", "#BBD8EF", "#F7F9FC", "#F5CC7D", "#B47A1F"],
+  "fontFamilies": {
+    "zh": ["Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "sans-serif"],
+    "latin": ["Arial", "sans-serif"]
+  },
+  "fontSizesPx": {
+    "title": 18,
+    "subtitle": 13,
+    "axis": 12,
+    "legend": 12,
+    "label": 11
+  },
+  "lineWidthsPx": {
+    "primary": 2.5,
+    "secondary": 1.8,
+    "reference": 1.2
+  },
+  "opacity": {
+    "interval": 0.18,
+    "densePoints": 0.6,
+    "mutedSeries": 0.35
+  },
+  "radiusPx": {
+    "card": 14,
+    "bar": 4
+  }
+}
